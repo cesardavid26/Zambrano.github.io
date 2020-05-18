@@ -127,10 +127,11 @@ p{
 	color: white;
 
 }
-.carousel-caption{
-	
-    
-
+.carousel-item{
+    height: 460px;
+} 
+.carousel-item img{
+    height: 460px;
 }
 
 footer{
