@@ -127,13 +127,14 @@ p{
 	color: white;
 
 }
+@media only screen and (max-width: 600px){
 .carousel-item{
-    height: 460px;
+    height: 400px;
 } 
 .carousel-item img{
-    height: 460px;
+    height: 400px;
 }
-
+}
 footer{
 	bottom: 0;
 	color: white;
